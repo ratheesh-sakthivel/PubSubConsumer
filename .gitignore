@@ -11,8 +11,7 @@
 **/target/
 
 **/velocity.log
-# Compiled class file
-*.class
+
 
 # Log file
 *.log
@@ -36,3 +35,6 @@
 hs_err_pid*
 dependency-reduced-pom.xml
 target/
+
+# Compiled class file
+*.class
